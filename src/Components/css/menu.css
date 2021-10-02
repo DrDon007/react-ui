@@ -1,0 +1,6 @@
+.subManu ul {
+  display: flex;
+  width: 40%;
+  font-size: 15px;
+  color: #999999;
+}

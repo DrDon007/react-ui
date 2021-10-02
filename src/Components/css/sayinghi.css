@@ -1,0 +1,28 @@
+.banner {
+  display: flex;
+}
+.bannerTitle {
+  text-align: left;
+  float: left;
+  width: 80%;
+  margin: 10px;
+}
+
+.bannerButton ul {
+  display: flex;
+}
+
+.bannerButton .cancel {
+  background-color: #f1f1f1;
+  padding: 6px 20px;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.bannerButton .save {
+  background-color: #46b13d;
+  padding: 6px 20px;
+  border-radius: 5px;
+  color: #fff;
+  margin: 10px;
+}

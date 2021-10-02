@@ -1,0 +1,21 @@
+.optionList {
+  background: #ebf2ff;
+  text-align: left;
+  width: 90%;
+  border-radius: 8px;
+}
+
+.optionList img {
+  margin: 10px;
+}
+
+.optionList p {
+  padding: 15px 0px 0px 10px;
+  color: #3860ad;
+}
+
+.otheLinks ul li {
+  color: #999999;
+  border-bottom: 1px solid #00000012;
+  width: 90%;
+}

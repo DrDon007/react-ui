@@ -1,0 +1,20 @@
+.sideMenu {
+  margin-left: 8%;
+}
+.mainCont {
+  margin: 15px 0;
+  position: fixed;
+}
+
+.mainCont li {
+  margin-bottom: 40px;
+}
+.profile {
+  position: absolute;
+  bottom: 20px;
+  padding: 15px;
+}
+
+.sidebar {
+  position: relative;
+}
